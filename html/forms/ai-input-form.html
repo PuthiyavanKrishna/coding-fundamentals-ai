@@ -1,14 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>AI Input Form</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent Interface</title>
+    <!-- Link to CSS file -->
+    <link rel="stylesheet" href="../../css/animations/response-animation.css">
 </head>
 <body>
-    <h1>AI Agent Input</h1>
+    <h1>Ask the AI Agent</h1>
     <form id="ai-form">
         <input type="text" id="user-query" placeholder="Ask the AI agent...">
         <button type="submit">Submit</button>
     </form>
     <div id="ai-response"></div>
+
+    <!-- Link to JavaScript file at the end of body -->
+    <script src="../../javascript/api-calls/ai-api.js"></script>
 </body>
 </html>
