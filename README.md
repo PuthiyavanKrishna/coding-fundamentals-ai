@@ -1,42 +1,6 @@
 # coding-fundamentals-ai
 Fundamental coding technologies for building AI agents
 
-coding-fundamentals-ai/
-│
-├── html/                 # HTML examples
-│   ├── forms/            # Form examples for AI input
-│   └── semantic/         # Semantic HTML examples
-│
-├── css/                  # CSS examples
-│   ├── responsive/       # Responsive design examples
-│   └── animations/       # CSS animations for AI feedback
-│
-├── javascript/           # JavaScript examples
-│   ├── dom/              # DOM manipulation
-│   ├── api-calls/        # API integration examples
-│   └── events/           # Event handling
-│
-├── php/                  # PHP examples
-│   ├── backend/          # Server-side scripts
-│   ├── database/         # Database integration
-│   └── api/              # API endpoints
-│
-├── python/               # Python examples
-│   ├── ml/               # Machine learning models
-│   ├── data-processing/  # Data manipulation
-│   └── api/              # Python APIs (Flask/FastAPI)
-│
-├── flutter/              # Flutter examples
-│   ├── widgets/          # UI components
-│   ├── state-management/ # State management examples
-│   └── integration/      # Platform integration
-│
-├── combined-examples/    # Full-stack AI agent examples
-│   ├── web-ai-agent/     # Web-based AI agent
-│   └── mobile-ai-agent/  # Mobile AI agent
-│
-└── README.md             # This file
-
 🚀 Getting Started
 Prerequisites
 Web Technologies: A modern web browser (Chrome, Firefox, Safari)
