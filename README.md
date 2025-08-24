@@ -47,7 +47,7 @@ IDE: VS Code, PyCharm, or Android Studio
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/coding-fundamentals-ai.git
+git clone https://github.com/PuthiyavanKrishna/coding-fundamentals-ai.git
 cd coding-fundamentals-ai
 Install Python dependencies:
 cd python
