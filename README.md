@@ -37,5 +37,5 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 Author: Puthiyavan Krishnan
-Email: your.powerof.ai.ai@example.com
+Email:  powerof.ai.ai@example.com
 Project Link: https://github.com/PuthiyavanKrishna/coding-fundamentals-ai
